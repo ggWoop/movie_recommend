@@ -1,4 +1,4 @@
 pandas
 scikit-learn
 streamlit
-supabase-py=
+supabase-py
